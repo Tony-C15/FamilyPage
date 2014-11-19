@@ -1,0 +1,104 @@
+#u69-4,#u74-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u80
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #A68C72;
+	background-color: rgba(117, 76, 36, 0.64);
+	position: fixed;
+	-pie-background: rgba(117, 76, 36, 0.64);
+}
+
+#u744-4
+{
+	line-height: 26px;
+	font-size: 22px;
+	position: fixed;
+}
+
+#u1031-4
+{
+	line-height: 23px;
+	font-size: 19px;
+	position: fixed;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u746-4
+{
+	line-height: 72px;
+	font-size: 60px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u119,#u785
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u124,#u374,#u383,#u392,#u401,#u410,#u419,#u428,#u437,#u446,#u455,#u464,#u473,#u482,#u491,#u500,#u509,#u518,#u527,#u536,#u545,#u554,#u563,#u572,#u581,#u590,#u599,#u608,#u617,#u626,#u635,#u644,#u653,#u662,#u671,#u680,#u689,#u698,#u707,#u716,#u725,#u734,#u790,#u900,#u909,#u918,#u927,#u936,#u945,#u954,#u963,#u972,#u981,#u990,#u999,#u1008
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u124_clip,#u374_clip,#u383_clip,#u392_clip,#u401_clip,#u410_clip,#u419_clip,#u428_clip,#u437_clip,#u446_clip,#u455_clip,#u464_clip,#u473_clip,#u482_clip,#u491_clip,#u500_clip,#u509_clip,#u518_clip,#u527_clip,#u536_clip,#u545_clip,#u554_clip,#u563_clip,#u572_clip,#u581_clip,#u590_clip,#u599_clip,#u608_clip,#u617_clip,#u626_clip,#u635_clip,#u644_clip,#u653_clip,#u662_clip,#u671_clip,#u680_clip,#u689_clip,#u698_clip,#u707_clip,#u716_clip,#u725_clip,#u734_clip,#u790_clip,#u900_clip,#u909_clip,#u918_clip,#u927_clip,#u936_clip,#u945_clip,#u954_clip,#u963_clip,#u972_clip,#u981_clip,#u990_clip,#u999_clip,#u1008_clip
+{
+	overflow: hidden;
+}
+
+#u126-4,#u792-4
+{
+	position: absolute;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u126,#u792
+{
+	color: #999999;
+}
+
+#u116-4,#u782-4
+{
+	position: absolute;
+	text-align: center;
+	line-height: 20px;
+	color: #999999;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#david,#slideshowu81,#tony,#slideshowu747,#u1017-3
+{
+	position: relative;
+}
+
+#u1032-4
+{
+	line-height: 64px;
+	font-size: 53px;
+	color: #FFFFFF;
+	position: relative;
+}
+

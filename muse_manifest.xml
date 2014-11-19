@@ -1,0 +1,82 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-master.css" crc="3985305728" ref="index"/>
+    <file name="index.css" crc="4254543359" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
+    <file name="museutils.js" crc="3880880085" ref="index"/>
+    <file name="pie.js" crc="4147615982" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="56249048" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index"/>
+    <file name="webpro.js" crc="33264525" ref="index"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="index"/>
+    <file name="touchswipe.js" crc="261777990" ref="index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u69-4.png" crc="2985923" ref="index"/>
+    <file name="u74-4.png" crc="4253976769" ref="index"/>
+    <file name="dsc_9708.jpg" crc="4255932670" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc_9709.jpg" crc="74937419" ref="index"/>
+    <file name="dsc_9710.jpg" crc="142122454" ref="index"/>
+    <file name="dsc_9711.jpg" crc="4104613171" ref="index"/>
+    <file name="dsc_9712.jpg" crc="3786785514" ref="index"/>
+    <file name="dsc_9713.jpg" crc="60180802" ref="index"/>
+    <file name="dsc_9714.jpg" crc="4037291740" ref="index"/>
+    <file name="dsc_9715.jpg" crc="3891193046" ref="index"/>
+    <file name="dsc_9716.jpg" crc="3918408127" ref="index"/>
+    <file name="dsc_9717.jpg" crc="4034025371" ref="index"/>
+    <file name="dsc_9718.jpg" crc="2772325" ref="index"/>
+    <file name="dsc_9719.jpg" crc="162523466" ref="index"/>
+    <file name="dsc_9720.jpg" crc="261726413" ref="index"/>
+    <file name="dsc_9721.jpg" crc="419348191" ref="index"/>
+    <file name="dsc_9722.jpg" crc="489520901" ref="index"/>
+    <file name="dsc_9723.jpg" crc="3823419691" ref="index"/>
+    <file name="dsc_9724.jpg" crc="209733439" ref="index"/>
+    <file name="dsc_9725.jpg" crc="259381096" ref="index"/>
+    <file name="dsc_9726.jpg" crc="168868644" ref="index"/>
+    <file name="dsc_9727.jpg" crc="78224125" ref="index"/>
+    <file name="dsc_9728.jpg" crc="3966448998" ref="index"/>
+    <file name="dsc_9729.jpg" crc="3782717010" ref="index"/>
+    <file name="dsc_9730.jpg" crc="3847282795" ref="index"/>
+    <file name="dsc_9731.jpg" crc="3989706161" ref="index"/>
+    <file name="dsc_9732.jpg" crc="4225932538" ref="index"/>
+    <file name="dsc_9733.jpg" crc="4271381907" ref="index"/>
+    <file name="dsc_9734.jpg" crc="451454858" ref="index"/>
+    <file name="dsc_9735.jpg" crc="3936296658" ref="index"/>
+    <file name="dsc_9736.jpg" crc="294244078" ref="index"/>
+    <file name="dsc_9737.jpg" crc="4193544842" ref="index"/>
+    <file name="dsc_9738.jpg" crc="3899822325" ref="index"/>
+    <file name="dsc_9739.jpg" crc="480322155" ref="index"/>
+    <file name="dsc_9740.jpg" crc="442943881" ref="index"/>
+    <file name="dsc_9741.jpg" crc="122168051" ref="index"/>
+    <file name="dsc_9742.jpg" crc="3915001227" ref="index"/>
+    <file name="dsc_9765.jpg" crc="174561081" ref="index"/>
+    <file name="dsc_9767.jpg" crc="4268749761" ref="index"/>
+    <file name="dsc_9768.jpg" crc="4159748814" ref="index"/>
+    <file name="dsc_9769.jpg" crc="2061145" ref="index"/>
+    <file name="dsc_9770.jpg" crc="3997299366" ref="index"/>
+    <file name="dsc_9771.jpg" crc="139823948" ref="index"/>
+    <file name="dsc_9772.jpg" crc="4155667686" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dsc_0835.jpg" crc="274868438" ref="index"/>
+    <file name="dsc_0927.jpg" crc="528231055" ref="index"/>
+    <file name="dsc_0976.jpg" crc="3832115520" ref="index"/>
+    <file name="dsc_1522.jpg" crc="4281425867" ref="index"/>
+    <file name="dsc_1597.jpg" crc="447494552" ref="index"/>
+    <file name="dsc_1600.jpg" crc="3928497386" ref="index"/>
+    <file name="dsc_1833.jpg" crc="33953489" ref="index"/>
+    <file name="dsc_1874.jpg" crc="3973321337" ref="index"/>
+    <file name="dsc_1890.jpg" crc="4256639516" ref="index"/>
+    <file name="dsc_1966 copyrighted.jpg" crc="209619577" ref="index"/>
+    <file name="dsc_1966.jpg" crc="4072493612" ref="index"/>
+    <file name="dsc_1970.jpg" crc="248877215" ref="index"/>
+    <file name="dsc_1989.jpg" crc="4032104427" ref="index"/>
+    <file name="dsc_2001-2.jpg" crc="4081497016" ref="index"/>
+  </folder>
+  <file name="index.html" crc="34699354" mt="1416356647590" redirect="true"/>
+</manifest>
